@@ -1,0 +1,9 @@
+.custom-file-button input[type=file]::-webkit-file-upload-button{
+    background-color: #0275d8;
+    border-color: #0275d8;
+    color: #fff;
+}
+
+span{
+    color: red;
+}

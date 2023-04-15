@@ -1,0 +1,24 @@
+a:hover{
+    opacity: 0.5;
+}
+
+/* li{
+    text-align: center;
+}
+
+li:first-child{
+    background-color: #0275d8;
+    border-radius: 5px;
+}
+
+li:first-child .nav-link{
+    color: white;
+} */
+
+.nav-link{
+    color: #0275d8;
+}
+
+
+
+
